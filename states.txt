@@ -8,3 +8,5 @@ Iowa
 Florida
 Arizona
 Maryland
+South Carolina
+Alaska
