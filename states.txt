@@ -5,3 +5,5 @@ Virginia (added locally)
 Maine (added locally)
 California
 Oregon
+Nevada
+Washington
