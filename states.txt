@@ -13,3 +13,5 @@ Alaska
 Montana
 Ohio
 Oregon
+Nebraska
+New York
