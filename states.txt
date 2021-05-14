@@ -9,7 +9,6 @@ Florida
 Arizona
 Maryland
 South Carolina
-<<<<<<< HEAD
-=======
 Alaska
->>>>>>> 109a02548e9d5a057b23ff528309d7bb166a7516
+Montana
+
